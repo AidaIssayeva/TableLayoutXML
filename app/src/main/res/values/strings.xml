@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TableLayoutXML</string>
+    <string name="save">save</string>
+    <string name="data_input">Data input form</string>
+    <string name="Name">Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Age">Age</string>
+    <string name="Cancel">Cancel</string>
+    <string name="et_name">Type in your Name</string>
+    <string name="et_last_name">Type in your last name</string>
+    <string name="et_age">Type in your age</string>
+</resources>
